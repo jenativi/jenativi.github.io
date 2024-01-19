@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/haccLogo.png
+image: img/speechBoard-square.jpg
 title: "Speech Board"
 date: 2020
 published: true
