@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/cotton/HACC.png
+image: img/cotton/cookingLogo.png
 title: "Cooking"
 date: 2023
 published: true
@@ -10,6 +10,7 @@ labels:
   - GitHub
 summary: "A short tutorial and informative hisotry of Butter Chicken."
 ---
+<img width="300px" class="rounded float-start pe-4" src="../img/butterChicken.png">
 
 In this cooking video that I created for my Filipino class, I created a video to present in class on how to prepare and cook Butter Chicken.
 
