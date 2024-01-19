@@ -1,0 +1,15 @@
+---
+layout: project
+type: project
+image: img/cotton/cotton-square.png
+title: "HACC"
+date: 2020
+published: true
+labels:
+  - Hackathon
+  - GitHub
+summary: "A one stop shop directory for social services in Hawai`i. This group project was created for Hawaii Annual Code Challenge for 2020"
+---
+
+<img class="img-fluid" src="../img/cotton/cotton-header.png">
+
