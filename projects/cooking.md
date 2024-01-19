@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/cookingLogo.png
+image: img/cookinglogo.png
 title: "Cooking"
 date: 2023
 published: true
