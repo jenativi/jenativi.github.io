@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/cotton/SpeechBoardLogo.png
+image: img/cotton/HACC.png
 title: "Speech Board"
 date: 2020
 published: true
