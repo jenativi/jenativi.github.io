@@ -29,3 +29,7 @@ could have been easily answered through a web search. In other words, the user c
 Many questions could be easily answered using the method “Google it” but in this [example](https://stackoverflow.com/questions/2607289/converting-array-to-list-in-java), the user has done research and “Googled" their problem. In the post, the user asked how to convert an array to a list in Java. 
 They also included that they were using a certain type of method in Java that would convert the array. The post’s question is precise but they also included research about the behavior changes of the method they were using. 
 This question was concise and was easily given a solution and others explained the behavior of the method they were using.
+
+## What I Learned
+
+A simple question to someone can be an ambiguous open-answer question to another. After reading and looking for smart and dumb questions, I came to understand that the most important part of writing a question is to know what you are asking. It is important to know what you are asking because you can be precise and provide background information on what you are asking in a public forum. Additionally, clarity in formulating questions enhances effective communication and reduces the likelihood of misunderstandings. A smart question is not only beneficial to people helping you but also helps receive a solution in an efficient manner.
