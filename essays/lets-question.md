@@ -9,6 +9,7 @@ labels:
   - Questions
   - StackOverflow
 ---
+<img class="rounded float-start pe-4" src="../img/Question-mark.jpg">
 
 In Eric Raymond’s essay [How to Ask Questions the Smart Way](http://www.catb.org/esr/faqs/smart-questions.html), Raymond explains how to form a smart and efficient question within a forum and online community. 
 Upon reading this essay I realized that there are a lot of questions on the internet that were not well thought out. There are many different kinds of “not smart” questions on the internet. 
