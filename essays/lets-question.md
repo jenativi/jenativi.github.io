@@ -26,6 +26,6 @@ could have been easily answered through a web search. In other words, the user c
 
 ## A Precise Question
 
-	Many questions could be easily answered using the method “Google it” but in this example, the user has done research and “Googled" their problem. In the post, the user asked how to convert an array to a list in Java. 
+Many questions could be easily answered using the method “Google it” but in this example, the user has done research and “Googled" their problem. In the post, the user asked how to convert an array to a list in Java. 
 They also included that they were using a certain type of method in Java that would convert the array. The post’s question is precise but they also included research about the behavior changes of the method they were using. 
 This question was concise and was easily given a solution and others explained the behavior of the method they were using.
