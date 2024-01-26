@@ -10,7 +10,7 @@ labels:
   - StackOverflow
 ---
 
-In Eric Raymond’s essay How to Ask Questions the Smart Way, Raymond explains how to form a smart and efficient question within a forum and online community. 
+In Eric Raymond’s essay [How to Ask Questions the Smart Way](http://www.catb.org/esr/faqs/smart-questions.html), Raymond explains how to form a smart and efficient question within a forum and online community. 
 Upon reading this essay I realized that there are a lot of questions on the internet that were not well thought out. There are many different kinds of “not smart” questions on the internet. 
 For example, some would post on an online forum asking for help without background information or any clarifications and some ask questions that could simply be answered through a simple web search and last. 
 Some skills and techniques that Raymond pointed out when writing a smart question are writing in clear and grammatical language, being precise and informative, and last but not least writing an explicit question. 
