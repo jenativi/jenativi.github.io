@@ -10,7 +10,7 @@ labels:
 summary: "A web app that is used to help individuals with speech disabilities."
 ---
 
-<img class="img-fluid" src="../img/SpeechBoard-frontPage.png">
+<img class="img-fluid" src="../img/SpeechBoard-frontPage.jpg">
 
 In this project my group worked on a web app for individuals with speech disabilities.
 
