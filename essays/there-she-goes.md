@@ -20,7 +20,9 @@ labels:
      src="../img/the-las.jpg" >
 
 “There she goes again”, a line from the famous song There She Goes by the band The La’s is my first thought when reflecting on coding standards. I say this because when learning about coding standards using ESLint, each time I receive an error from ESLint I think “Oops an error” and then I try to fix the error and another error pops up. And there she goes again.
+
 In my first week of using IntellliJ, I felt lost and overwhelmed with setting up the environment and making sure that everything worked well. I knew that I wanted to install IntelliJ on my home computer and school laptop which means that I would have needed to do double the work. I first installed IntelliJ on my computer since I knew how to get around the settings and directories of my computer better than my laptop. Then I proceeded to do the same steps on my laptop and it all turned out well. When it came time to try out ESLint for the first time, I totally forgot to install Volta into my computer which meant another 30 minutes of figuring out the problem. Finally, I was able to sort it all out and got to try ESLint for the first time. 
+
 So now that all have been set up, I now have access to ESLint and the learning of coding standards is upon me. My first impressions of ESLint was that it looked complicated and almost hard to read the code. I thought that since following the ESLint guidelines, the code looks shorter and more polished but it also takes a second to fully understand the code because of how short it is. One thing that I did appreciate about ESLint is how it organizes the code and makes it look more clean. When coding I usually just throw everything in one by one and try to make it look nicer after I’m done but with ESLint it fixes and makes my code look nicer while I’m still coding.
 
 ## "There she goes again..."
