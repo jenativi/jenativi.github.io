@@ -15,7 +15,7 @@ labels:
 
 ## "There she goes"
 
-<img width="200px" 
+<img width="400px" 
      class="rounded float-start pe-4" 
      src="../img/the-las.jpg" >
 
