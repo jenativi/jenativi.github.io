@@ -38,9 +38,11 @@ copy a website out of thin air. I felt like I was magic and I could do more with
 look for class names that would edit my HTML elements. From my version you can see that the arrow buttons are not in the same place as the original website. Another thing that is off is the size of the buttons. 
 Despite the frustrating experience, I think I was still able to appreciate and enjoy Bootstrap. 
 
-<img width="1000px" 
-     class="rounded float-center pe-4" 
-     src="../img/website-comparison.png" >
+<div class="text-center p-4">
+  <img width="1000px" 
+       class="rounded float-center pe-4" 
+       src="../img/website-comparison.png" >
+</div>
 
 ## Not Effortless
 
