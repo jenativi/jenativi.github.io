@@ -16,7 +16,7 @@ labels:
 
 ## "Effortless" Mornings
 
-	Every weekday morning I hesitantly wake up at 6:00 a.m. I brush my teeth, then I shower and then I get dressed. 
+Every weekday morning I hesitantly wake up at 6:00 a.m. I brush my teeth, then I shower and then I get dressed. 
 After getting dressed and packing my backpack I fill up my water bottle and head to my car to drive to school, leaving by 7:30 a.m. 
 The sole reason why I described how I get ready for school is because it is my way of simulating how coding with raw HTML and CSS can be lengthy to perform a specific task.
 With the use of UI frameworks, I could have simply started by stating that I wake up at 6:00 a.m. to get ready for school and leave my house at 7:30 a.m. 
@@ -38,7 +38,7 @@ copy a website out of thin air. I felt like I was magic and I could do more with
 look for class names that would edit my HTML elements. From my version you can see that the arrow buttons are not in the same place as the original website. Another thing that is off is the size of the buttons. 
 Despite the frustrating experience, I think I was still able to appreciate and enjoy Bootstrap. 
 
-<img width="400px" 
+<img width="1000px" 
      class="rounded float-center pe-4" 
      src="../img/website-comparison.png" >
 
