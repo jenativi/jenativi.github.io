@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "Effortless Mornings and Effortless Coding"
+title: "Effortless Mornings and Effortless Coding: The Bootstrap Era"
 # All dates must be YYYY-MM-DD format!
 date: 2024-02-22
 published: true
