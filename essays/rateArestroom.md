@@ -9,11 +9,15 @@ labels:
 ---
 
 ## Authors:
-Justin Nativdad, Brandon Nelson, Emily Hsu, Rocky Huang, Elsa Wong
+- Justin Nativdad
+-  Brandon Nelson
+-   Emily Hsu
+-   Rocky Huang
+-   Elsa Wong
 
 ## Problem and Solution
-</br> The problem: Not all restrooms are created equal
-</br> The solution: RateARestroom
++ The problem: Not all restrooms are created equal
++ The solution: RateARestroom
 
 ## Pages 
 + Login
