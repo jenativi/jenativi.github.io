@@ -9,23 +9,19 @@ labels:
 ---
 
 ## Authors:
-</br> Justin Nativdad
-</br>Brandon Nelson
-</br>Emily Hsu
-</br>Rocky Huang
-</br>Elsa Wong
+Justin Nativdad, Brandon Nelson, Emily Hsu, Rocky Huang, Elsa Wong
 
 ## Problem and Solution
 </br> The problem: Not all restrooms are created equal
 </br> The solution: RateARestroom
 
 ## Pages 
-</br> Login
-</br> Home Page
-</br> Rated restrooms / Rate a restroom
-</br> Find Restroom
-</br> Your Restrooms
-</br> Restroom Quest
++ Login
++ Home Page
++ Rated restrooms / Rate a restroom
++ Find Restroom
++ Your Restrooms
++ Restroom Quest
 
 ### Login:
 In this page users are able to login into their accounts. Their accounts store the restrooms that they have visited, reviewed, and their levels for restroom Quest. 
