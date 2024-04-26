@@ -35,6 +35,8 @@ labels:
   In my view, design patterns are what keep the world moving. They epitomize the adage, "If it ain't broke, don't fix it," by providing time-tested, common solutions to recurring problems. This philosophy resonates deeply with my experience in an Algorithms class, where leveraging a well-known sorting algorithm proved far more efficient than attempting to code a new one from scratch. Design patterns are truly remarkable in their ability to make work not only more efficient but also significantly more effective. They've taught me to approach software development not just as a craft, but as an opportunity to build on the collective knowledge of generations of developers.
 
   As I reflect on my journey through the development of the gym partner app at the University of Hawaii, the analogy of navigating the seas has never felt more apt. Just as a seasoned navigator relies on proven maps and instruments to traverse the vast oceans, I have come to rely on design patterns as indispensable tools in the vast sea of software development. The Singleton pattern, like a trusty compass, guided us in managing user profiles with precision, ensuring that our application could efficiently and effectively connect students. This project not only deepened my understanding of how to apply these navigational aids in coding but also reinforced my belief in the power of design patterns to streamline processes and enhance functionality. As I continue my voyage in software development, I am equipped with these patterns, ready to tackle new challenges with confidence, knowing that I am building on the solid foundation of collective wisdom and proven strategies.
-    
+
+
+__ChatGPT was used to help write this essay__
 
   
