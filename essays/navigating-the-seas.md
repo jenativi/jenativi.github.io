@@ -37,6 +37,6 @@ labels:
   As I reflect on my journey through the development of the gym partner app at the University of Hawaii, the analogy of navigating the seas has never felt more apt. Just as a seasoned navigator relies on proven maps and instruments to traverse the vast oceans, I have come to rely on design patterns as indispensable tools in the vast sea of software development. The Singleton pattern, like a trusty compass, guided us in managing user profiles with precision, ensuring that our application could efficiently and effectively connect students. This project not only deepened my understanding of how to apply these navigational aids in coding but also reinforced my belief in the power of design patterns to streamline processes and enhance functionality. As I continue my voyage in software development, I am equipped with these patterns, ready to tackle new challenges with confidence, knowing that I am building on the solid foundation of collective wisdom and proven strategies.
 
 
-_ChatGPT was used to help write this essay_
+_ChatGPT was used to help write and format this essay. It was also used to generate the image above._
 
   
