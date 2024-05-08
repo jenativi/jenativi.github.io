@@ -60,7 +60,7 @@ const submit = (data) => {
 
 
 8. Asking or answering a smart-question 
-  I have never used AI for answering or asking smart-question questions. As I have mentioned previously, I rarely ask for help in Discord, so I have no need to use AI for writing smart-questions. 
+I have never used AI for answering or asking smart-question questions. As I have mentioned previously, I rarely ask for help in Discord, so I have no need to use AI for writing smart-questions. 
 
 
 9. Coding example e.g. “give an example of using Underscore .pluck”  
@@ -68,8 +68,7 @@ const submit = (data) => {
 
 
 10. Explaining Code
-  I found AI to be helpful when explaining code but I have only asked AI to explain the code it generated and not the code that I have provided. When using ChatGPT to help write programs, I would often ask and explain  
-  what the code is doing. I do this since it helps me understand what it generated but also helps with altering the generated code when I need to.
+  I found AI to be helpful when explaining code but I have only asked AI to explain the code it generated and not the code that I have provided. When using ChatGPT to help write programs, I would often ask and explain  what the code is doing. I do this since it helps me understand what it generated but also helps with altering the generated code when I need to.
 
 11. Writing code  
   I have used ChatGPT for writing code. As I have explained above, I used AI for my final project which helped me write the code for altering the logic of the program.
