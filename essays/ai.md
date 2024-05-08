@@ -68,7 +68,7 @@ const submit = (data) => {
 13. Quality Assurance  
   As mentioned above, I have used AI for debugging codes for In-Class WODs. I found it useful since it can quickly find what’s wrong. Instead of looking at the code for several minutes and finding the bug, ChatGPT can      quickly pick up on it and fix it for me.
 14. Other uses in ICS 314 not listed above
-    I did not use AI in ICS 314 that were not listed above.
+I did not use AI in ICS 314 that were not listed above.
       
 
 ### III. Impact on Learning and Understanding:
