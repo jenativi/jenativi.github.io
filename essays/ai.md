@@ -28,7 +28,7 @@ I have used AI in class this semester in the following areas:
   4. Essays
    - I have used AI for writing essays but only one essay is mostly written by ChatGPT and most of them are written by me. I found that using ChatGPT for writing essays does not help show my actual voice. The way that ChatGPT writes is way too formal and written like someone with no emotions. The way I incorporate ChatGPT in my essays is simply for grammar fixes. One instance that I have used ChatGPT for writing an essay is writing “Reflect on Design Patterns”. For example, ChatGPT was used to write the information about Design Patterns. Which simply wrote a robotic-sounding paragraph about Design Patterns.
   5. Final project
-     - I have used AI for the final project. For example, I have used it to adjust the logic for the filter feature on the project. The filter was based on the BowFolios filter which worked by having the user select interest in the filter and then showing the component cards after the filter was submitted. I have used ChatGPT to help me adjust this logic by having it first show all the card components and filtering it after interest is selected and submitted.
+- I have used AI for the final project. For example, I have used it to adjust the logic for the filter feature on the project. The filter was based on the BowFolios filter which worked by having the user select interest in the filter and then showing the component cards after the filter was submitted. I have used ChatGPT to help me adjust this logic by having it first show all the card components and filtering it after interest is selected and submitted.
 
 Before AI
 Before AI
