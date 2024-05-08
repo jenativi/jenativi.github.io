@@ -36,6 +36,7 @@ I have used AI in class this semester in the following areas:
 
 6. Learning a concept / tutorial  
    I have never used AI when learning a concept since the modules and information on the internet were enough. I do think that ChatGPT is great for learning concepts since it is easy to answer a question and have a curated answer for a specific question.
+
    Before AI
   ```javascript
    const submit = (data) => {
