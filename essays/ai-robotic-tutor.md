@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "The Potential of AI"
+title: "AI: My Robotic Tutor"
 # All dates must be YYYY-MM-DD format!
 date: 2024-05-07
 published: true
