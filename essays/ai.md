@@ -19,23 +19,23 @@ Artificial Intelligence or AI has dominated the minds of tech professionals in t
 ### II. Personal Experience with AI:
 I have used AI in class this semester in the following areas:
 
-  1. Experience WODs e.g. E18
+    1. Experience WODs e.g. E18
 
   I have not used AI for Experience WODs since I did not find it necessary to use. I thought that the tutorial videos and the instructions in the Experience WODs  were clear enough for me to understand to finish it.
 
-  2. In-class Practice WODs
+    2. In-class Practice WODs
 
   I have used AI for some In-Class Practice WODs but mainly for debugging purposes. I thought that it was important to find the answers on my own until I get stuck on a problem. Initially, I would seek assistance from my classmates in class, but if they were unable to help, I would then turn to ChatGPT for help with debugging my code.
 
-  4. In-class WODs
+    3. In-class WODs
 
   Similar to the In-Class Practice WODs, I have used AI on some of them for debugging purposes. The reason for this is that I felt that I wanted to code the majority of the WOD and understand the concept we were learning in class without the help of AI. It was my way of seeing if I understood the concepts the WODs were teaching. When I use ChatGPT for In-Class WODs, most of the WOD is coded and debugging fixes are mostly logic fixes and missing parts.
 
-  6. Essays
+    4. Essays
 
   I have used AI for writing essays but only one essay is mostly written by ChatGPT and most of them are written by me. I found that using ChatGPT for writing essays does not help show my actual voice. The way that ChatGPT writes is way too formal and written like someone with no emotions. The way I incorporate ChatGPT in my essays is simply for grammar fixes. One instance that I have used ChatGPT for writing an essay is writing “Reflect on Design Patterns”. For example, ChatGPT was used to write the information about Design Patterns. Which simply wrote a robotic-sounding paragraph about Design Patterns.
 
-  8. Final project
+    5. Final project
 
   I have used AI for the final project. For example, I have used it to adjust the logic for the filter feature on the project. The filter was based on the BowFolios filter which worked by having the user select interest in the filter and then showing the component cards after the filter was submitted. I have used ChatGPT to help me adjust this logic by having it first show all the card components and filtering it after interest is selected and submitted.
   
@@ -57,39 +57,39 @@ const submit = (data) => {
 };
 ```
   
-  10. Learning a concept / tutorial
+    6. Learning a concept / tutorial
 
   I have never used AI when learning a concept since the modules and information on the internet were enough. I do think that ChatGPT is great for learning concepts since it is easy to answer a question and have a curated answer for a specific question.
 
-  12. Answering a question in class or in Discord
+    7. Answering a question in class or in Discord
 
   I have never used AI for writing answers for class and Discord. I rarely used the class Discord to ask for smart questions and have never needed AI to help write them.
 
-  14. Asking or answering a smart-question
+    8. Asking or answering a smart-question
 
   I have never used AI for answering or asking smart-question questions. As I have mentioned previously, I rarely ask for help in Discord, so I have no need to use AI for writing smart-questions. 
 
-  16. Coding example e.g. “give an example of using Underscore .pluck”
+    9. Coding example e.g. “give an example of using Underscore .pluck”
 
   For coding examples I did not see the need to use AI since most coding examples were easily accessible on the internet. For example in the Javascript module of the class, I simply used W3Schools and other sites to find examples of code.
 
-  18. Explaining code
+    10. Explaining code
 
   I found AI to be helpful when explaining code but I have only asked AI to explain the code it generated and not the code that I have provided. When using ChatGPT to help write programs, I would often ask and explain what the code is doing. I do this since it helps me understand what it generated but also helps with altering the generated code when I need to.
 
-  20. Writing code
+    11. Writing code
 
   I have used ChatGPT for writing code. As I have explained above, I used AI for my final project which helped me write the code for altering the logic of the program.
 
-  22. Documenting code
+    12. Documenting code
 
   I have never used AI for documenting codes since I rarely document my codes. The most I would document my code is by writing simple comments which happens infrequently. Therefore, I have not needed to use AI for documenting code since I rarely write them to begin with.
 
-  24. Quality assurance
+    13. Quality assurance
 
   As mentioned above, I have used AI for debugging codes for In-Class WODs. I found it useful since it can quickly find what’s wrong. Instead of looking at the code for several minutes and finding the bug, ChatGPT can quickly pick up on it and fix it for me.
 
-  26. Other uses in ICS 314 not listed above
+    14. Other uses in ICS 314 not listed above
 
   I did not use AI in ICS 314 that were not listed above.
 
