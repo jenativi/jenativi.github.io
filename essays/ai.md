@@ -11,10 +11,15 @@ labels:
   - ChatGPT
 ---
 
-<img width="350" alt="" class="rounded float-start pe-4" src="../img/AI/chatgpt.jpg">
+<div class="text-center p-4">
+  <img width="1000px" 
+       class="rounded float-center pe-4" 
+       src="../img/ai-essay-image.jpg" >
+</div>
+
 
 ### I. Introduction
-The integration of Artificial Intelligence in education marks a shift in how students learn and apply technological skills. AI tools like ChatGPT and GitHub Co-Pilot have become instrumental tools in providing on-demand educational support for code development and enhancing the learning experiences through interactive and personalized assistance. In my coursework for ICS 314: Software Engineering, I have primarily used ChatGPT to assist with various problems such as coding and writing essays. These tools have introduced new dynamics in understanding complex software engineering principles and have changed the direction of the traditional learning process.
+Artificial Intelligence or AI has dominated the minds of tech professionals in the recent year. Originally depicted in literature and films as fictional, it has been brought to life by the efforts of companies such as OpenAI. In the fields of education and software engineering, AI has established itself as a valuable tool for numerous students, owing to its accessibility. I am part of the many students who have developed AI into their toolbox for education. Of the many AI chatbots that have come out this year, I have used ChatGPT to help with schoolwork and increase my efficiency in software development.
 
 ### II. Personal Experience with AI:
 I have used AI in class this semester in the following areas:
