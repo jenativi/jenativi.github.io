@@ -52,20 +52,24 @@ const submit = (data) => {
 };
 ```
   
-6. Learning a concept / tutorial
-  I have never used AI when learning a concept since the modules and information on the internet were enough. I do think that ChatGPT is great for learning concepts since it is easy to answer a question and have a          curated answer for a specific question.
+6. Learning a concept / Tutorial
+  I have never used AI when learning a concept since the modules and information on the internet were enough. I do think that ChatGPT is great for learning concepts since it is easy to answer a question and have a      curated answer for a specific question.
 
 7. Answering a question in class or in Discord 
   I have never used AI for writing answers for class and Discord. I rarely used the class Discord to ask for smart questions and have never needed AI to help write them.
 
+
 8. Asking or answering a smart-question 
   I have never used AI for answering or asking smart-question questions. As I have mentioned previously, I rarely ask for help in Discord, so I have no need to use AI for writing smart-questions. 
 
-9. Coding example e.g. “give an example of using Underscore .pluck”  
-  For coding examples I did not see the need to use AI since most coding examples were easily accessible on the internet. For example in the Javascript module of the class, I simply used W3Schools and other sites to find    examples of code.
 
-10. Explaining code
-  I found AI to be helpful when explaining code but I have only asked AI to explain the code it generated and not the code that I have provided. When using ChatGPT to help write programs, I would often ask and explain      what the code is doing. I do this since it helps me understand what it generated but also helps with altering the generated code when I need to.
+9. Coding example e.g. “give an example of using Underscore .pluck”  
+  For coding examples I did not see the need to use AI since most coding examples were easily accessible on the internet. For example in the Javascript module of the class, I simply used W3Schools and other sites to find   examples of code.
+
+
+10. Explaining Code
+  I found AI to be helpful when explaining code but I have only asked AI to explain the code it generated and not the code that I have provided. When using ChatGPT to help write programs, I would often ask and explain  
+  what the code is doing. I do this since it helps me understand what it generated but also helps with altering the generated code when I need to.
 
 11. Writing code  
   I have used ChatGPT for writing code. As I have explained above, I used AI for my final project which helped me write the code for altering the logic of the program.
