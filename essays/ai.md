@@ -40,7 +40,7 @@ I have used AI in class this semester in the following areas:
   I have used AI for the final project. For example, I have used it to adjust the logic for the filter feature on the project. The filter was based on the BowFolios filter which worked by having the user select interest in the filter and then showing the component cards after the filter was submitted. I have used ChatGPT to help me adjust this logic by having it first show all the card components and filtering it after interest is selected and submitted.
   
 Before AI
-```javascriipt
+```js
     const submit = (data) => {
       setSelectedInterests(data.interests || []);
     };
