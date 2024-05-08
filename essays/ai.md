@@ -41,9 +41,9 @@ I have used AI in class this semester in the following areas:
   
 Before AI
 ```js
-    const submit = (data) => {
-      setSelectedInterests(data.interests || []);
-    };
+const submit = (data) => {
+  setSelectedInterests(data.interests || []);
+};
 ```
 
 After AI
