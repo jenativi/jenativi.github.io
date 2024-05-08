@@ -29,25 +29,6 @@ I have used AI in class this semester in the following areas:
    - I have used AI for writing essays but only one essay is mostly written by ChatGPT and most of them are written by me. I found that using ChatGPT for writing essays does not help show my actual voice. The way that ChatGPT writes is way too formal and written like someone with no emotions. The way I incorporate ChatGPT in my essays is simply for grammar fixes. One instance that I have used ChatGPT for writing an essay is writing “Reflect on Design Patterns”. For example, ChatGPT was used to write the information about Design Patterns. Which simply wrote a robotic-sounding paragraph about Design Patterns.
   5. Final project
 - I have used AI for the final project. For example, I have used it to adjust the logic for the filter feature on the project. The filter was based on the BowFolios filter which worked by having the user select interest in the filter and then showing the component cards after the filter was submitted. I have used ChatGPT to help me adjust this logic by having it first show all the card components and filtering it after interest is selected and submitted.
-
-Before AI
-Before AI
-```javascript
-const submit = (data) => {
-  setSelectedInterests(data.interests || []);
-};
-```
-  
-After AI
-```javascript
-const submit = (data) => {
-  setInterests(data.interests || []);
-  const filteredEmails = data.interests?.length > 0
-  ? _.uniq(_.pluck(profileInterests.filter(pI => data.interests.includes(pI.interest)), 'profile'))
-  : _.uniq(_.pluck(allProfiles, 'email'));
-  setProfileData(filteredEmails.map(email => getProfileData(email)));
-};
-```
   6. Learning a concept / tutorial
    - I have never used AI when learning a concept since the modules and information on the internet were enough. I do think that ChatGPT is great for learning concepts since it is easy to answer a question and have a curated answer for a specific question.
   7. Answering a question in class or in Discord
