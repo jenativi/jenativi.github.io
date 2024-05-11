@@ -6,26 +6,27 @@
     "email": "jenativi@hawaii.edu",
     "website": "https://jenativi.github.io/",
     "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Fall, 2025.",
-    "location": { "address": "", "postalCode": "96822", "city": "Waipahu", "countryCode": "USA", "region": "Hawaii" },
+    "location": { "address": "", "postalCode": "96797", "city": "Waipahu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
       { "network": "github", "username": "jenativi", "url": "https://github.com/jenativi" },
       { "network": "linkedin", "username": "Justin Natividad", "url": "https://www.linkedin.com/in/justin-natividad-886a6523b/" }
     ]
   },
   "interests": [
-    { "name": "Movies" },
-    { "name": "Artificial Intelligence" },
     { "name": "Game Development" },
-    { "name": "3D Graphics" }
+    { "name": "Artificial Intelligence" },
+    { "name": "Sustainability" },
+    { "name": "3D Graphics" },
+    { "name": "Film" }
   ],
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Java", "Javascript", "Python" ]
+      "keywords": [ "C", "C++", "Java", "Javascript", "Python", "React", "Bootstrap" ]
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "Windows", "Ubuntu", "Git/GitHub", "g++", "TI LaunchPad" ]
+      "keywords": [ "Windows", "Git/GitHub",]
     }
   ],
   "education": [
@@ -44,12 +45,12 @@
       "company": "Buffalo Wild Wings",
       "position": "Host",
       "website": "",
-      "startDate": "2022-10-01",
-      "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "startDate": "2022-05-01",
+      "endDate": "2022-10-01",
+      "summary": "Host and Cashier for Buffalo Wild Wings",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+        "Seats guests and managed the seating chart while effectively communicating with kitchen staff",
+        "Proficiently answered phone calls and assisted customers with inquiries and orders."
       ]
     },
   ],
@@ -59,7 +60,7 @@
       "website": "https://manoascholarsclub.weebly.com/",
       "position": "Volunteer",
       "startDate": "2022",
-      "endDate": "Present",
+      "endDate": "2023",
       "summary": "Helper during the Manoa open house event.",
     }
   ],
