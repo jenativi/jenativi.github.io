@@ -4,7 +4,7 @@ type: essay
 title: "Navigating the Seas of Code: My Voyage with Design Patterns"
 # All dates must be YYYY-MM-DD format!
 date: 2024-04-25
-published: true
+published: false
 labels:
   - Javascript
   - Reflection
