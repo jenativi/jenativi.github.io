@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: img/uh-repcompanion-logo.png
-title: "HACC"
+title: "UH RepCompanion"
 date: 2024
 published: true
 labels:
