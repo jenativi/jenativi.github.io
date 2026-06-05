@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/Paint.png
+image: img/malamago.png
 title: "Digital Menu"
 date: 2026
 published: true
