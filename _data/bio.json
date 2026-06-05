@@ -5,11 +5,11 @@
     "picture": "https://github.com/jenativi.png",
     "email": "jenativi@hawaii.edu",
     "website": "https://jenativi.github.io/",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Fall, 2025.",
+    "summary": "Bachelor of Science in Computer Science",
     "location": { "address": "", "postalCode": "96797", "city": "Waipahu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
       { "network": "github", "username": "jenativi", "url": "https://github.com/jenativi" },
-      { "network": "linkedin", "username": "Justin Natividad", "url": "https://www.linkedin.com/in/justin-natividad-886a6523b/" }
+      { "network": "linkedin", "username": "Justin Natividad", "url": "https://www.linkedin.com/in/jenativi/" }
     ]
   },
   "interests": [
@@ -22,20 +22,20 @@
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Java", "Javascript", "Python", "React", "Bootstrap", "Meteor", "MongoDB", ]
+      "keywords": [ "C", "C++", "Java", "Javascript", "Python", "React", "Bootstrap", "Meteor", "MongoDB", "MATLAB",  ]
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "Windows", "Git/GitHub", "IntelliJ",]
+      "keywords": [ "Windows", "macOS", "Git/GitHub", "IntelliJ",]
     }
   ],
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Fall, 2025)",
+      "area": "Computer Science",
       "studyType": "B.S.",
       "startDate": "2022-09-01",
-      "endDate": "Present",
+      "endDate": "2026-05-16",
       "courses": [
       ]
     }
@@ -60,7 +60,7 @@
       "website": "https://manoascholarsclub.weebly.com/",
       "position": "Volunteer",
       "startDate": "2022",
-      "endDate": "2023",
+      "endDate": "2026",
       "summary": "Helper during the Manoa open house event.",
     }
   ],

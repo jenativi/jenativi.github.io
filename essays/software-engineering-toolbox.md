@@ -4,7 +4,7 @@ type: essay
 title: "From 'Hello World' to Ethical Builds: Unpacking My Software Engineering Toolbox"
 # All dates must be YYYY-MM-DD format!
 date: 2024-05-10
-published: true
+published: false
 labels:
   - Reflection
   - Software Engineering

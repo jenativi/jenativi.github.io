@@ -4,7 +4,7 @@ type: project
 image: img/speechBoard-square.jpg
 title: "Speech Board"
 date: 2020
-published: true
+published: false
 labels:
   - Hackathon
 summary: "A web app that is used to help individuals with speech disabilities."

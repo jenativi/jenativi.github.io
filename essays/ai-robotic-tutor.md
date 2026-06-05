@@ -4,7 +4,7 @@ type: essay
 title: "AI: My Robotic Tutor"
 # All dates must be YYYY-MM-DD format!
 date: 2024-05-07
-published: true
+published: false
 labels:
   - Education
   - Aritifial Intelligence
