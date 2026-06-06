@@ -3,11 +3,11 @@ layout: project
 type: project
 image: img/malamago.png
 title: "Digital Menu"
-date: 2026
+date: 2025
 published: true
 labels:
   - Project
-  - Game
+  - Web App
 summary: "A interactive digital menu creator for vendors."
 ---
 
